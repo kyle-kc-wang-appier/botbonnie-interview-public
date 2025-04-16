@@ -1,0 +1,5 @@
+2023-04-15T10:23:45.678Z - SUCCESS - Login for email: admin@example.com
+2023-04-15T10:25:12.345Z - FAILED - Login attempt for email: user@example.com
+2023-04-15T10:26:33.456Z - SUCCESS - Login for email: customer@example.com
+2023-04-15T10:30:15.789Z - FAILED - Login attempt for email: unknown
+2023-04-15T10:35:22.123Z - SUCCESS - Login for email: seller@example.com
